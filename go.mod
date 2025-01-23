@@ -1,6 +1,6 @@
-module github.com/cilium/pwru-test-app
+module github.com/brb/pwru-test-app
 
-go 1.23.3
+go 1.23.1
 
 require github.com/cilium/ebpf v0.17.1
 
